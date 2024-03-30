@@ -15,6 +15,7 @@ jobs:
       RTC_GITHUB_REGISTRY: ${{ secrets.RTC_GITHUB_REGISTRY }}
       ENVIRONMENT_NAME: ${{ secrets.ENVIRONMENT_NAME }}
       SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+      DESTINATION_USER: ${{ secrets.DESTINATION_USER }}
       DESTINATION_REPO: ${{ secrets.DESTINATION_REPO }}
       TARGET_BRANCH: ${{ secrets.TARGET_BRANCH }}
       OBJECTS_REPO: ${{ secrets.OBJECTS_REPO }}
