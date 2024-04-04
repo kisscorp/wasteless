@@ -34,7 +34,7 @@ export const environment = {
     endpointUrl: 'https://edge.hedge.earth/octostore/rollthecloudinc/spearhead-docs-objects-prod/media',
     cloudinaryUrl: 'https://api.cloudinary.com/v1_1/dj4vvkgzw',
     uploadPreset: 'i0hm4opm',
-    imageUrl: 'https://edge.hedge.earth/octostore/rollthecloudinc/spearhead-docs-objects-prod',
+    imageUrl: 'https://iso-objects.climateaware.eco',
     bucket: 'classifieds-ui-prod',
     prefix: 'media/'
   },
@@ -65,7 +65,7 @@ export const environment = {
   panelsSettings: {
     openSearchDomain: 'search-classifieds-ui-prod-o5unofrr3c4qb3ykfrxebh2e4a',
     s3Bucket: 'classifieds-ui-prod',
-    objectsRootUrl: 'https://rollthecloudinc.github.io/spearhead-docs-objects-prod'
+    objectsRootUrl: 'https://iso-objects.climateaware.eco'
   },
   alienaliasSettings: {
     openSearchDomain: 'search-classifieds-ui-prod-o5unofrr3c4qb3ykfrxebh2e4a'
