@@ -36,7 +36,7 @@ export const environment = {
     endpointUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-docs-objects/media",
     cloudinaryUrl: 'https://api.cloudinary.com/v1_1/dj4vvkgzw',
     uploadPreset: 'i0hm4opm',
-    imageUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-docs-objects",
+    imageUrl: "https://iso-objects.climateaware-dev.eco",
     bucket: 'classifieds-ui-dev',
     prefix: 'media/'
   },
@@ -67,7 +67,7 @@ export const environment = {
   panelsSettings: {
     openSearchDomain: 'search-classifieds-ui-dev-eldczuhq3vesgpjnr3vie6cagq',
     s3Bucket: 'classifieds-ui-dev',
-    objectsRootUrl: 'https://rollthecloudinc.github.io/spearhead-docs-objects'
+    objectsRootUrl: 'https://iso-objects.climateaware-dev.eco'
   },
   alienaliasSettings: {
     openSearchDomain: 'search-classifieds-ui-dev-eldczuhq3vesgpjnr3vie6cagq'
