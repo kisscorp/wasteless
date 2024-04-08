@@ -1,6 +1,6 @@
 // Take note args used in demo paths can not be included here.
 export const panelpages = [
-  ['d9c6c524-f726-4218-b138-579f51c79fd5', '/'],
+  ['d9c6c524-f726-4218-b138-579f51c79fd5', '/introduction'],
   ['cfeccfe3-78c3-41ef-ac97-2e16ed2f0a4e', '/installation'],
   ['0fae7fdf-0f51-4b82-b945-3cc985e77ed4', '/conclusion'],
   ['5a1ba17e-7af1-4268-a4c1-f95fb178877c', '/cpd'],
