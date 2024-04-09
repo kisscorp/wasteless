@@ -31,3 +31,37 @@ classifieds-ui-page-router-link[href*="manage"] {
 classifieds-ui-page-router-link[href*="manage"] a:hover {
   text-decoration: underline;
 }
+
+classifieds-ui-panel-page {
+
+  h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    font-weight: bolder;
+    color: rgb(4 120 87);
+  }
+
+  h2 {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+    font-weight: 500;
+    color: rgb(4 120 87);
+  }
+
+  ol, ul {
+    list-style-position: inside;
+    margin: 1em 0;
+    padding-left: 40px;
+  }
+
+  ol li, ul li {
+    margin: 0.5em 0;
+  }
+
+  p {
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 1em 0;
+  }
+
+}
